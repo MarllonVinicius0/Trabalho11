@@ -7,11 +7,8 @@
 
 
 ## Descrição do projeto 
-
 <p align="justify">
-Em anexo está um código um arquivo .h que contem inumeras funções que estão implementadas em um
-arquivo .c
-tendo as principais funcionalidades:
+Em anexo está um código um arquivo .h que contem inumeras funções que estão implementadas em um arquivo .c tendo as principais funcionalidades:
 
 *Criar um vetor não dinâmico que tem o tamanho N
 
@@ -23,10 +20,27 @@ Pré requisito : GCC
 
 Caso não possua GCC Clique [aqui](https://terminaldeinformacao.com/2015/10/08/como-instalar-e-configurar-o-gcc-no-windows-mingw/) e confira como baixar
 
+Baixe os arquivos do repositório diretamente pelo github ou pelo terminal utilizando : 
+
+
+<code>
+<span style="color: tomato">»</span> git clone git clone https://github.com/MarllonVinicius0/Trabalho11.git
+</code>
+
 Para rodar este código o usuário basta somente realizar uma sequência de instruções no terminal:
 
-Gerar arquivo executável: >>gcc TR4_536828.c main.c -o TR4_536828
+Gerar arquivo executável: 
 
-Logo após executar com >>.TR4_536828.exe para windows ou >>./TR4_536828
+<code>
+<span style="color: tomato">»</span> gcc TR4_536828.c main.c -o TR4_536828
+</code>
+
+Logo após executar com:
+
+<code>
+<span style="color: tomato">».TR4_536828.exe para windows 
+
+<span style="color: tomato">»./TR4_536828 para linux
+</code>
 
 OBS: Há uma main de exemplo disposta neste repositório: [main.c](https://github.com/MarllonVinicius0/Trabalho11/blob/main/main.c)
